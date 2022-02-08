@@ -1,0 +1,16 @@
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\MultiDimension_Arrays\MultiDimension_Arrays\bin\Debug\net5.0\MultiDimension_Arrays.exe
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\MultiDimension_Arrays\MultiDimension_Arrays\bin\Debug\net5.0\MultiDimension_Arrays.deps.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\MultiDimension_Arrays\MultiDimension_Arrays\bin\Debug\net5.0\MultiDimension_Arrays.runtimeconfig.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\MultiDimension_Arrays\MultiDimension_Arrays\bin\Debug\net5.0\MultiDimension_Arrays.runtimeconfig.dev.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\MultiDimension_Arrays\MultiDimension_Arrays\bin\Debug\net5.0\MultiDimension_Arrays.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\MultiDimension_Arrays\MultiDimension_Arrays\bin\Debug\net5.0\ref\MultiDimension_Arrays.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\MultiDimension_Arrays\MultiDimension_Arrays\bin\Debug\net5.0\MultiDimension_Arrays.pdb
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\MultiDimension_Arrays\MultiDimension_Arrays\obj\Debug\net5.0\MultiDimension_Arrays.csproj.AssemblyReference.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\MultiDimension_Arrays\MultiDimension_Arrays\obj\Debug\net5.0\MultiDimension_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\MultiDimension_Arrays\MultiDimension_Arrays\obj\Debug\net5.0\MultiDimension_Arrays.AssemblyInfoInputs.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\MultiDimension_Arrays\MultiDimension_Arrays\obj\Debug\net5.0\MultiDimension_Arrays.AssemblyInfo.cs
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\MultiDimension_Arrays\MultiDimension_Arrays\obj\Debug\net5.0\MultiDimension_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\MultiDimension_Arrays\MultiDimension_Arrays\obj\Debug\net5.0\MultiDimension_Arrays.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\MultiDimension_Arrays\MultiDimension_Arrays\obj\Debug\net5.0\ref\MultiDimension_Arrays.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\MultiDimension_Arrays\MultiDimension_Arrays\obj\Debug\net5.0\MultiDimension_Arrays.pdb
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\MultiDimension_Arrays\MultiDimension_Arrays\obj\Debug\net5.0\MultiDimension_Arrays.genruntimeconfig.cache
